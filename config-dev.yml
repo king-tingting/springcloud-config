@@ -1,5 +1,5 @@
 config:
-  info: version=2
+  info: version=3
 spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource #当前数据源操作类型
